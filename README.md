@@ -1,1 +1,3 @@
 TITULO : PROJETO MENTORAMA GIT
+PROJETO : meuPrograma.py
+LINGUAGEM : Python
